@@ -1,0 +1,5 @@
+site:.blogspot.com [bonsai]
+site:.blogspot.com [apk]
+site:.blogspot.com [ebook]
+site:.blogspot.com [wallpaper]
+site:.blogspot.com [design]
